@@ -1,0 +1,21 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/rana1",
+    "prod_uri":"mysql://root:@localhost/rana1",
+    "fb_url":"https://www.facebook.com/profile.php?id=100017928783497",
+    "tw_url":"https://www.linkedin.com/in/ranasingh1994/",
+    "gh_url": "https://github.com/ranasingh-gkp",
+    "blog_name": "Coding Thunder",
+    "tag_line": "Heaven for programmers",
+    "gmail-user":"ranasinghiitkgp@gmail.com",
+    "gmail-password":"---",
+    "about_text": "Hi my name is harry and I create programming tutorials and I am a good boy",
+  "no_of_posts": 3,
+  "login_image":"login.svg",
+    "admin_user":"harry",
+    "admin_password": "subscribenow",
+      "upload_location" : "C:\\Users\\Raftaar Singh\\Documents\\website\\flask_test\\static"
+  }
+}
